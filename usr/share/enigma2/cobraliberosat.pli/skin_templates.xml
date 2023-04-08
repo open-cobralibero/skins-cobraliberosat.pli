@@ -69,7 +69,7 @@
 		<panel name="SelectionTemplate"/>
 		<ePixmap pixmap="logos/pli_transp.png" position="30,967" size="283,51" scale="1" zPosition="1" alphatest="blend" />
 		<eLabel name="" position="1210,980" size="450,40" text="Skin: mod. By COBRALIBEROSAT " font="Menu;25" halign="left" zPosition="3" foregroundColor="yellow" backgroundColor="background" transparent="0" />
-		<eLabel name="" position="610,980" size="450,40" text="FORUM: https://cobraliberosat.net/" font="Menu;25" halign="left" zPosition="3" foregroundColor="yellow" backgroundColor="background" transparent="0" />
+		<eLabel name="" position="610,980" size="450,40" text="Forum: https://cobraliberosat.net/" font="Menu;25" halign="left" zPosition="3" foregroundColor="yellow" backgroundColor="background" transparent="0" />
 	</screen>
 
 	<screen name="PigLessTemplate">
