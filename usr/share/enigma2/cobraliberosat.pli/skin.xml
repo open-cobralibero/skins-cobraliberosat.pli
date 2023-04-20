@@ -63,7 +63,7 @@
 		<color name="blue" value="#00879ce1"/>
 		<color name="bluetransparent" value="#08001e4b"/>
 		<color name="dark" value="#00242424"/>
-		<color name="darkgrey" value="#ff0000"/>
+		<color name="darkgrey" value="#daa520"/>
 		<color name="fallback" value="#00b0b0c0"/>
 		<color name="foreground" value="#00f0f0f0"/>
 		<color name="green" value="#0056c856"/>
@@ -79,7 +79,7 @@
 		<color name="redtransparent" value="#084c0000"/>
 		<color name="rssviewtop" value="#00005050"/>
 		<color name="secondBG" value="#18101214"/>
-		<color name="secondFG" value="#ff0000"/>
+		<color name="secondFG" value="#00ff00"/>
 		<color name="selectedBG" value="#06303240"/>
 		<color name="selectedFG" value="#00ff00"/>
 		<color name="transparent" value="#ff000000"/>
