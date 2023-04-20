@@ -65,10 +65,10 @@
 		<color name="dark" value="#00242424"/>
 		<color name="darkgrey" value="#ff0000"/>
 		<color name="fallback" value="#00b0b0c0"/>
-		<color name="foreground" value="#00ffff"/>
+		<color name="foreground" value="#00f0f0f0"/>
 		<color name="green" value="#0056c856"/>
 		<color name="greentransparent" value="#08004c00"/>
-		<color name="grey" value="#b8860b"/>
+		<color name="grey" value="#daa520"/>
 		<color name="infobarBG" value="#41080808"/>
 		<color name="listbox" value="#000f56a4"/>
 		<color name="noTransBG" value="#00101214"/>
@@ -86,14 +86,14 @@
 		<color name="transpBlack" value="#54111112"/>
 		<color name="transpDark" value="#54242424"/>
 		<color name="transpWhite" value="#70f0f0f0"/>
-		<color name="un33333a" value="#b22222"/>
+		<color name="un33333a" value="#0033333a"/>
 		<color name="un40a0aa0" value="#040a0aa0"/>
 		<color name="un4a00a0a" value="#04a00a0a"/>
 		<color name="uncccccc" value="#00cccccc"/>
 		<color name="white" value="#00f0f0f0"/>
 		<color name="yellow" value="#00F9C731"/>
 		<color name="yellowsoft" value="#00CCAC68"/>
-		<color name="yellowtransparent" value="#ff0000"/>
+		<color name="yellowtransparent" value="#084b4b00"/>
 	</colors>
 
 	<parameters>
@@ -2346,7 +2346,7 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth) // 2, orgpos.y() + 
 	<screen name="QuitMainloopScreen" position="0,0" size="1920,1080" backgroundColor="transparent" flags="wfNoBorder">
       <eLabel text="COBRALIBEROSAT" position="200,80" size="700,80" font="error; 60" backgroundColor="white" transparent="1" valign="top" halign="left" />
       <ePixmap position="center,center" size="100,100" pixmap="shutdown-red.png" alphatest="blend" />
-      <eLabel name="" position="0,800" size="1920,60" text="Restarting  Receiver  Please  Wait .... " font="Replacement;34" halign="center" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
+      <eLabel name="" position="0,800" size="1920,60" text="Riavvio  del  ricevitore  Attendere.... " font="Replacement;34" halign="center" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
 	  <eLabel name="" position="1450,980" size="450,40" text="Skin: mod. By COBRALIBERO" font="Menu;25" halign="left" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
       <eLabel position="10,1020" size="1900,2" backgroundColor="grey" />
 	</screen>	
