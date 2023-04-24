@@ -2344,9 +2344,9 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth) // 2, orgpos.y() + 
 
 	<!-- Quit Screen -->	
 	<screen name="QuitMainloopScreen" position="0,0" size="1920,1080" backgroundColor="transparent" flags="wfNoBorder">
-      <eLabel text="COBRALIBEROSAT" position="200,80" size="700,80" font="error; 60" backgroundColor="white" transparent="1" valign="top" halign="left" />
+      <eLabel text="° COBRALIBEROSAT ®" position="200,80" size="700,80" font="error; 60" backgroundColor="white" transparent="1" valign="top" halign="left" />
       <ePixmap position="center,center" size="100,100" pixmap="shutdown-red.png" alphatest="blend" />
-      <eLabel name="" position="0,800" size="1920,60" text="Riavvio  del  ricevitore  Attendere.... " font="Replacement;34" halign="center" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
+      <eLabel name="" position="0,800" size="1920,60" text="Riavvio  del  ricevitore  Attendere...... " font="Replacement;34" halign="center" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
 	  <eLabel name="" position="1450,980" size="450,40" text="Skin: mod. By COBRALIBERO" font="Menu;25" halign="left" zPosition="3" foregroundColor="white" backgroundColor="transparent" transparent="0" />
       <eLabel position="10,1020" size="1900,2" backgroundColor="grey" />
 	</screen>	
